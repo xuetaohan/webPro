@@ -1,0 +1,10 @@
+##ignore this file##
+/node_modules/ 
+
+.classpath
+.project
+.settings      
+ ##filter databfile、sln file##
+*.mdb  
+*.ldb  
+*.sln   
